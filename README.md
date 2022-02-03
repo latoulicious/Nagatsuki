@@ -32,7 +32,7 @@ Its Moderation keep track of your members and keep your moderators accountable.
 
 > Website
 
-http://nagatsuki.tk
+http://nagatsuki.tech
 
 > Documentation
 
