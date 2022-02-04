@@ -1,5 +1,5 @@
 <h1>Terms and Conditions</h1>
-> Last updated: January 18, 2022</p>
+> Last updated: January 18, 2022
 <p>Please read these terms and conditions carefully before using Our Service.</p>
 <h1>Interpretation and Definitions</h1>
 <h2>Interpretation</h2>
