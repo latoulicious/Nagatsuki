@@ -30,7 +30,7 @@ Its Moderation keep track of your members and keep your moderators accountable.
 
 ## Links
 
-> Website [ Not yet available ]
+> Website 
 
 http://nagatsuki.me
 
