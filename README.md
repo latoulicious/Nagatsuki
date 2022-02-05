@@ -34,10 +34,6 @@ Its Moderation keep track of your members and keep your moderators accountable.
 
 http://nagatsuki.me
 
-> Documentation
-
-https://latoulicious.github.io/Nagatsuki/
-
 ## Contributing
 
 You are welcome to contribute by submitting a Pull Request to the repository.
